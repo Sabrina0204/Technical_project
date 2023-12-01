@@ -13,3 +13,6 @@ This is a list of the main projects I have been involved in.
 ### **Database**:
 - Created a database to record virus test results, personal information of infected patients, and travel records to assist the government in better controlling infectious diseases.
 - Worked on SQL to divide different regions into high, medium, and low-risk levels based on the travel paths of infected individuals, and conduct screenings and testing for individuals in the same area. Additionally, sort hospital test report times and provide the current remaining bed count.
+### **Web Scraping**:
+- Aimed to scrap the information from a Quote Web.
+- Utilize Python to scrape quote content, tags, and author information. Analyze the scraped data employing bar charts, histograms, box plots, scatter plots, pie charts, and heatmaps.
