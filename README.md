@@ -16,3 +16,8 @@ This is a list of the main projects I have been involved in.
 ### **Web Scraping**:
 - Aimed to scrap the information from a Quote Web.
 - Utilize Python to scrape quote content, tags, and author information. Analyze the scraped data employing bar charts, histograms, box plots, scatter plots, pie charts, and heatmaps.
+
+### **Predicting Healthcare Employee Attrition**:
+- Aimed at utilizing machine learning and analytics to develop robust models, accurately predicting employee turnover rates is crucial for maintaining the stability and quality of healthcare services.
+- Encompass various technological including data visualization, data preprocessing, data transformation, and predictive modeling.
+- Achieve an accuracy of 96.8% using SVM and 92.8% using decision trees.
